@@ -1,3 +1,2 @@
 __pycache__
-chatbot_model.pth
-classification_model.h5
+data/*
